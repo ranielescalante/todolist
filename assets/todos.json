@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Fist task.",
+        "done": false
+    },
+    {
+        "task": "Second task.",
+        "done": false
+    },
+    {
+        "task": "Third task.",
+        "done": false
+    },
+    {
+        "task": "Fourth task",
+        "done": false
+    }
+]
